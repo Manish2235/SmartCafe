@@ -32,3 +32,20 @@ This project shows how threads can:
 ---
 
 ## 🖥️ Example Output
+---
+=== Smart Café Simulation Started ===
+[Cook] Preparing order #1
+[Cafe] New order placed! Total orders: 1
+[Cafe] Ravi delivered an order. Remaining: 0
+[Cook] Preparing order #2
+[Cafe] New order placed! Total orders: 1
+[Cafe] Sohan delivered an order. Remaining: 0
+
+## 🧩 Concepts Demonstrated
+- Multithreading using `Thread` class  
+- Concurrency  
+- Synchronization to prevent race conditions  
+- Shared resource management  
+- Thread sleep and join  
+
+---
